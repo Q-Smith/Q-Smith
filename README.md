@@ -1,3 +1,7 @@
+<!-- Profile Banner -->
+ 
+ [![](./assets/banner.png)](https://github.com/Q-Smith)
+ 
 <!-- Visitors Badge -->
 
 <p align="center">
